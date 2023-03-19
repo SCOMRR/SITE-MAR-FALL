@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: white;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  section h2 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .photos img {
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    object-fit: cover;
+  }
+  
+  .videos iframe {
+    width: 100%;
+    height: 315px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .animations {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .animation {
+    width: 200px;
+    height: 200px;
+    background-color: #555;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  .e{
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: mediumblue;
+}
+.q{
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
+  background-color: peru;
+}
+.t{
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
+background-color: darkgrey;
+}
+.w{
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
+  background-color: lightblue;
+}
+
+.y{
+  width: 100%;
+  height: 60px;
+  border-radius: 10px;
+  background-color: green;
+  color: white;
+}
+.E3{
+  border-radius: 10px;
+  background-color: peru;
+  width: 80px;
+  height: 30px;
+  border-color: bisque;
+ 
+}
+
+.E4{
+  border-radius: 10px;
+  background-color: aquamarine;
+  width: 80px;
+  height: 30px;
+  border-color: aquamarine;
+  }
+  .E5{
+    border-radius: 10px;
+    background-color: green;
+    width: 80px;
+    height: 30px;
+    border-color: green;
+    }
+    .E6{
+      border-radius: 10px;
+      background-color: lightblue;
+      width: 80px;
+      height: 30px;
+      border-color: lightblue;
+      }
+      .E7{
+        border-radius: 10px;
+        background-color: blue;
+        width: 80px;
+        height: 30px;
+        border-color: blue;
+        }
